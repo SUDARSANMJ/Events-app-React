@@ -1,4 +1,3 @@
-/* Write your CSS here */
 .registration-status-container {
   display: flex;
   justify-content: center;
@@ -12,13 +11,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width: 98%;
+  width: 90%;
 }
 
 .yet-to-register-image {
   width: 90%;
   max-width: 461px;
 }
+
 .register-description {
   text-align: center;
   color: #64748b;
@@ -60,7 +60,7 @@
   font-weight: 600;
   line-height: 1.2;
   margin: 0px;
-  margin-top: 48px;
+  margin-top: 40px;
 }
 
 .registrations-closed-image {
@@ -87,18 +87,18 @@
   line-height: 1.7;
   width: 60%;
   margin: 0px;
-  margin-top: 10px;
+  margin-top: 16px;
 }
 
 .no-active-event-description {
   text-align: center;
   align-self: flex-start;
   color: #64748b;
-  line-height: 1.75;
-  margin: 0px;
   font-family: 'Roboto';
   font-size: 24px;
   font-weight: 500;
+  line-height: 1.75;
+  margin: 0px;
   margin-top: 64px;
   margin-right: 16px;
   margin-left: 16px;
